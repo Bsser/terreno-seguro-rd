@@ -8,7 +8,7 @@ Meta: ingresos pasivos con productos digitales (guías PDF) sobre terrenos y tr�
 - [x] Blog: este repo → `python build.py` genera `docs/`
 - [x] Publicado en GitHub Pages: https://bsser.github.io/terreno-seguro-rd
 - [x] Gumroad: producto creado en https://jontastic64.gumroad.com/l/terreno-seguro-rd (publicado y a la venta desde 2026-11-24)
-- [ ] Google Search Console: verificar el sitio y enviar sitemap.xml
+- [x] Google Search Console: verificado (etiqueta meta en build.py, no quitarla) y sitemap enviado el 2026-11-24
 - [x] Tarea diaria programada (8:05 a. m., tarea terreno-seguro-rd-diario)
 
 ## Rutina diaria (la tarea programada)
