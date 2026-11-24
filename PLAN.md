@@ -6,10 +6,10 @@ Meta: ingresos pasivos con productos digitales (guías PDF) sobre terrenos y tr�
 - [x] Producto 1: `producto/Terreno-Seguro-RD.pdf` (US$9)
 - [x] PDF gratis: `estaticos/banderas-rojas.pdf`
 - [x] Blog: este repo → `python build.py` genera `docs/`
-- [ ] Publicar en GitHub Pages (repo `terreno-seguro-rd`, cuenta Bsser) → https://bsser.github.io/terreno-seguro-rd
-- [ ] Cuenta de Gumroad + subir producto (ficha en `ventas/ficha-gumroad.md`); poner la URL real en `TIENDA` dentro de `build.py`
+- [x] Publicado en GitHub Pages: https://bsser.github.io/terreno-seguro-rd
+- [x] Gumroad: producto creado en https://jontastic64.gumroad.com/l/terreno-seguro-rd (falta que el dueño conecte el método de cobro y publicarlo)
 - [ ] Google Search Console: verificar el sitio y enviar sitemap.xml
-- [ ] Tarea diaria programada
+- [x] Tarea diaria programada (8:05 a. m., tarea terreno-seguro-rd-diario)
 
 ## Rutina diaria (la tarea programada)
 1. Tomar el primer tema pendiente de la cola, investigarlo con fuentes oficiales (ri.gob.do, dgii.gov.do, leyes) y escribir `contenido/<slug>.md` (700–1200 palabras, útil, sin inventar cifras; si un dato no se confirma, decirlo).

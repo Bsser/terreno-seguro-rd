@@ -11,7 +11,7 @@ import datetime, html, pathlib, shutil
 import markdown
 
 SITIO = "https://bsser.github.io/terreno-seguro-rd"
-TIENDA = "https://bsser.gumroad.com/l/terreno-seguro-rd"  # TODO: confirmar al crear la cuenta de Gumroad
+TIENDA = "https://jontastic64.gumroad.com/l/terreno-seguro-rd"
 PRECIO = "US$9"
 
 RAIZ = pathlib.Path(__file__).parent
