@@ -23,6 +23,7 @@ PLANTILLA = """<!doctype html>
 <title>{titulo}</title>
 <meta name="description" content="{descripcion}">
 <link rel="canonical" href="{url}">
+<meta name="google-site-verification" content="4F6GvPItG1MgDsxIkhHlMnWlIL_Nr4-tKKIEYM5F8QM">
 <link rel="stylesheet" href="{base}estilo.css">
 </head><body>
 <header><a class="marca" href="{base}">Terreno Seguro RD</a><span>Compra terrenos en República Dominicana sin sorpresas</span></header>
