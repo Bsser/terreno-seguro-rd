@@ -7,7 +7,7 @@ Meta: ingresos pasivos con productos digitales (guías PDF) sobre terrenos y tr�
 - [x] PDF gratis: `estaticos/banderas-rojas.pdf`
 - [x] Blog: este repo → `python build.py` genera `docs/`
 - [x] Publicado en GitHub Pages: https://bsser.github.io/terreno-seguro-rd
-- [x] Gumroad: producto creado en https://jontastic64.gumroad.com/l/terreno-seguro-rd (falta que el dueño conecte el método de cobro y publicarlo)
+- [x] Gumroad: producto creado en https://jontastic64.gumroad.com/l/terreno-seguro-rd (publicado y a la venta desde 2026-11-24)
 - [ ] Google Search Console: verificar el sitio y enviar sitemap.xml
 - [x] Tarea diaria programada (8:05 a. m., tarea terreno-seguro-rd-diario)
 
