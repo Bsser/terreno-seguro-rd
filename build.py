@@ -35,7 +35,7 @@ CTA = f"""<aside class="cta">
 <h3>¿Vas a comprar un terreno?</h3>
 <p>La guía <b>Terreno Seguro RD</b> trae los 6 pasos de verificación, el semáforo de documentos, la tabla de costos y el checklist para el día de la firma. PDF de 13 páginas.</p>
 <a class="boton" href="{TIENDA}">Descargar la guía · {PRECIO}</a>
-<p class="gratis">¿Prefieres empezar gratis? <a href="{{base}}banderas-rojas.pdf">Descarga las 15 banderas rojas (PDF)</a>.</p>
+<p class="gratis">¿Prefieres empezar gratis? <a href="https://jontastic64.gumroad.com/l/banderas-rojas-gratis">Descarga las 15 banderas rojas (PDF)</a>.</p>
 <p class="gratis">¿Vives fuera y te interesan los dos temas? <a href="https://jontastic64.gumroad.com/l/pack-dominicano">Pack Dominicano: terreno + trámites, 2 guías por US$17</a>.</p>
 <p class="gratis">Herramienta gratis: <a href="https://bsser.github.io/calculadoras-rd/">calculadoras de regalía pascual, salario neto y prestaciones laborales</a>.</p>
 </aside>"""
