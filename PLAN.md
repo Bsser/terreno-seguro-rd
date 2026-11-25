@@ -19,7 +19,7 @@ Meta: ingresos pasivos con productos digitales (guías PDF) sobre terrenos y tr�
 5. Día 1 de cada mes: proponer el siguiente producto (por los temas con más visitas) y crearlo.
 
 ## Cola de temas (SEO)
-- [ ] Cuánto cuesta pasar un terreno a tu nombre en RD (impuestos y tasas)
+- [x] Cuánto cuesta pasar un terreno a tu nombre en RD (impuestos y tasas)
 - [ ] Qué es un deslinde, cuánto tarda y cuánto cuesta
 - [ ] Cómo comprar un solar en un proyecto o lotificación sin riesgo
 - [ ] Comprar un terreno a herederos: qué es la determinación de herederos
@@ -47,3 +47,4 @@ Meta: ingresos pasivos con productos digitales (guías PDF) sobre terrenos y tr�
 
 ## Registro
 - 2026-11-24: producto 1, PDF gratis y blog con 3 artículos creados.
+- 2026-11-25: artículo cuanto-cuesta-pasar-terreno-a-tu-nombre-rd
