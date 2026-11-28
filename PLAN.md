@@ -22,7 +22,7 @@ Meta: ingresos pasivos con productos digitales (guías PDF) sobre terrenos y tr�
 - [x] Cuánto cuesta pasar un terreno a tu nombre en RD (impuestos y tasas)
 - [x] Qué es un deslinde, cuánto tarda y cuánto cuesta
 - [x] Cómo comprar un solar en un proyecto o lotificación sin riesgo
-- [ ] Comprar un terreno a herederos: qué es la determinación de herederos
+- [x] Comprar un terreno a herederos: qué es la determinación de herederos
 - [ ] Cómo verificar un título de propiedad en RD paso a paso
 - [ ] ¿Se elimina el 3% de transferencia inmobiliaria? Qué dice la Ley 30-26
 - [ ] Cuántos metros tiene una tarea y cómo convertir tareas a m²
@@ -50,3 +50,4 @@ Meta: ingresos pasivos con productos digitales (guías PDF) sobre terrenos y tr�
 - 2026-11-25: artículo cuanto-cuesta-pasar-terreno-a-tu-nombre-rd
 - 2026-11-26: artículo que-es-un-deslinde-cuanto-tarda-cuanto-cuesta
 - 2026-11-27: artículo comprar-solar-proyecto-lotificacion-sin-riesgo
+- 2026-11-28: artículo comprar-terreno-a-herederos-determinacion-de-herederos
